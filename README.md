@@ -3,6 +3,7 @@ This repo contains configuration that I used for intelliji projects.
 
 - [intelliji configuration](#intelliji-configuration)
     - [Code style](#code-style)
+    - [Inspections](#inspections)
     - [Activation of auto-import](#activation-of-auto-import)
     - [Build project automatically](#build-project-automatically)
 
@@ -12,8 +13,17 @@ To import code style :
 -  Open preferences window
 -  Go to **Editor > Code Style**
 -  Import the file **src/configuration-code_style.xml** into the scheme
--  You are now using the tpoi_code_style
+-  You are now using tpoi_code_style
 -  Click OK to save settings
+----
+## Inspections
+To import inspections rules : 
+-  Open preferences window
+-  Go to **Editor > Inspections**
+-  Import the file **src/configuration-inspections.xml** into the profile
+-  You are now using tpoi_inspections
+-  Click OK to save settings
+
 ----
 ## Activation of auto-import
 Default configuration doesn't active auto-import.
