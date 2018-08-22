@@ -6,6 +6,8 @@ This repo contains configuration that I used for intelliji projects.
     - [Inspections](#inspections)
     - [Activation of auto-import](#activation-of-auto-import)
     - [Build project automatically](#build-project-automatically)
+    - [Color scheme](#color-scheme)
+    - [Plugins to install](#plugins-to-install)
 
 ----
 ## Code style
@@ -44,3 +46,11 @@ Default intelliji configuration doesn't build project automaticaly, to activate 
 -  Click OK to save settings
 
 ![Screenshot](screenshots/build_project_automaticaly.png)
+
+----
+## Color scheme
+The color scheme I use is Tommorow Night available in this [github](https://github.com/chriskempson/tomorrow-theme/tree/master/JetBrains)
+
+----
+## Plugins to install
+- Grep console : Highlight error in console (can be found in intelij plugin repository)
